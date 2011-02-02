@@ -1,0 +1,1155 @@
+/* Start stub declarations for class FXMemoryBuffer */
+
+/* Start stub declarations for class FXRb4Splitter */
+DECLARE_FXOBJECT_STUBS(FX4Splitter)
+DECLARE_FXID_STUBS(FX4Splitter)
+DECLARE_FXDRAWABLE_STUBS(FX4Splitter)
+DECLARE_FXWINDOW_STUBS(FX4Splitter)
+
+/* Start stub declarations for class FXRb7Segment */
+DECLARE_FXOBJECT_STUBS(FX7Segment)
+DECLARE_FXID_STUBS(FX7Segment)
+DECLARE_FXDRAWABLE_STUBS(FX7Segment)
+DECLARE_FXWINDOW_STUBS(FX7Segment)
+
+/* Start stub declarations for class FXRbAccelTable */
+DECLARE_FXOBJECT_STUBS(FXAccelTable)
+
+/* Start stub declarations for class FXRbApp */
+DECLARE_FXOBJECT_STUBS(FXApp)
+DECLARE_FXAPP_STUBS(FXApp)
+
+/* Start stub declarations for class FXRbArrowButton */
+DECLARE_FXOBJECT_STUBS(FXArrowButton)
+DECLARE_FXID_STUBS(FXArrowButton)
+DECLARE_FXDRAWABLE_STUBS(FXArrowButton)
+DECLARE_FXWINDOW_STUBS(FXArrowButton)
+
+/* Start stub declarations for class FXRbBMPIcon */
+DECLARE_FXOBJECT_STUBS(FXBMPIcon)
+DECLARE_FXID_STUBS(FXBMPIcon)
+DECLARE_FXDRAWABLE_STUBS(FXBMPIcon)
+DECLARE_FXIMAGE_STUBS(FXBMPIcon)
+
+/* Start stub declarations for class FXRbBMPImage */
+DECLARE_FXOBJECT_STUBS(FXBMPImage)
+DECLARE_FXID_STUBS(FXBMPImage)
+DECLARE_FXDRAWABLE_STUBS(FXBMPImage)
+DECLARE_FXIMAGE_STUBS(FXBMPImage)
+
+/* Start stub declarations for class FXRbBitmap */
+DECLARE_FXOBJECT_STUBS(FXBitmap)
+DECLARE_FXID_STUBS(FXBitmap)
+DECLARE_FXDRAWABLE_STUBS(FXBitmap)
+DECLARE_FXBITMAP_STUBS(FXBitmap)
+
+/* Start stub declarations for class FXRbBitmapFrame */
+DECLARE_FXOBJECT_STUBS(FXBitmapFrame)
+DECLARE_FXID_STUBS(FXBitmapFrame)
+DECLARE_FXDRAWABLE_STUBS(FXBitmapFrame)
+DECLARE_FXWINDOW_STUBS(FXBitmapFrame)
+
+/* Start stub declarations for class FXRbButton */
+DECLARE_FXOBJECT_STUBS(FXButton)
+DECLARE_FXID_STUBS(FXButton)
+DECLARE_FXDRAWABLE_STUBS(FXButton)
+DECLARE_FXWINDOW_STUBS(FXButton)
+
+/* Start stub declarations for class FXRbCURCursor */
+DECLARE_FXOBJECT_STUBS(FXCURCursor)
+DECLARE_FXID_STUBS(FXCURCursor)
+DECLARE_FXCURSOR_STUBS(FXCURCursor)
+
+/* Start stub declarations for class FXRbCanvas */
+DECLARE_FXOBJECT_STUBS(FXCanvas)
+DECLARE_FXID_STUBS(FXCanvas)
+DECLARE_FXDRAWABLE_STUBS(FXCanvas)
+DECLARE_FXWINDOW_STUBS(FXCanvas)
+
+/* Start stub declarations for class FXRbCheckButton */
+DECLARE_FXOBJECT_STUBS(FXCheckButton)
+DECLARE_FXID_STUBS(FXCheckButton)
+DECLARE_FXDRAWABLE_STUBS(FXCheckButton)
+DECLARE_FXWINDOW_STUBS(FXCheckButton)
+
+/* Start stub declarations for class FXRbChoiceBox */
+DECLARE_FXOBJECT_STUBS(FXChoiceBox)
+DECLARE_FXID_STUBS(FXChoiceBox)
+DECLARE_FXDRAWABLE_STUBS(FXChoiceBox)
+DECLARE_FXWINDOW_STUBS(FXChoiceBox)
+DECLARE_FXTOPWINDOW_STUBS(FXChoiceBox)
+DECLARE_FXDIALOGBOX_STUBS(FXChoiceBox)
+
+/* Start stub declarations for class FXRbColorBar */
+DECLARE_FXOBJECT_STUBS(FXColorBar)
+DECLARE_FXID_STUBS(FXColorBar)
+DECLARE_FXDRAWABLE_STUBS(FXColorBar)
+DECLARE_FXWINDOW_STUBS(FXColorBar)
+
+/* Start stub declarations for class FXRbColorDialog */
+DECLARE_FXOBJECT_STUBS(FXColorDialog)
+DECLARE_FXID_STUBS(FXColorDialog)
+DECLARE_FXDRAWABLE_STUBS(FXColorDialog)
+DECLARE_FXWINDOW_STUBS(FXColorDialog)
+DECLARE_FXTOPWINDOW_STUBS(FXColorDialog)
+DECLARE_FXDIALOGBOX_STUBS(FXColorDialog)
+
+/* Start stub declarations for class FXRbColorItem */
+DECLARE_FXOBJECT_STUBS(FXColorItem)
+DECLARE_FXLISTITEM_STUBS(FXColorItem)
+
+/* Start stub declarations for class FXRbColorList */
+DECLARE_FXOBJECT_STUBS(FXColorList)
+DECLARE_FXID_STUBS(FXColorList)
+DECLARE_FXDRAWABLE_STUBS(FXColorList)
+DECLARE_FXWINDOW_STUBS(FXColorList)
+DECLARE_FXSCROLLAREA_STUBS(FXColorList)
+DECLARE_FXLIST_STUBS(FXColorList)
+
+/* Start stub declarations for class FXRbColorRing */
+DECLARE_FXOBJECT_STUBS(FXColorRing)
+DECLARE_FXID_STUBS(FXColorRing)
+DECLARE_FXDRAWABLE_STUBS(FXColorRing)
+DECLARE_FXWINDOW_STUBS(FXColorRing)
+
+/* Start stub declarations for class FXRbColorSelector */
+DECLARE_FXOBJECT_STUBS(FXColorSelector)
+DECLARE_FXID_STUBS(FXColorSelector)
+DECLARE_FXDRAWABLE_STUBS(FXColorSelector)
+DECLARE_FXWINDOW_STUBS(FXColorSelector)
+
+/* Start stub declarations for class FXRbColorWell */
+DECLARE_FXOBJECT_STUBS(FXColorWell)
+DECLARE_FXID_STUBS(FXColorWell)
+DECLARE_FXDRAWABLE_STUBS(FXColorWell)
+DECLARE_FXWINDOW_STUBS(FXColorWell)
+
+/* Start stub declarations for class FXRbColorWheel */
+DECLARE_FXOBJECT_STUBS(FXColorWheel)
+DECLARE_FXID_STUBS(FXColorWheel)
+DECLARE_FXDRAWABLE_STUBS(FXColorWheel)
+DECLARE_FXWINDOW_STUBS(FXColorWheel)
+
+/* Start stub declarations for class FXRbComboBox */
+DECLARE_FXOBJECT_STUBS(FXComboBox)
+DECLARE_FXID_STUBS(FXComboBox)
+DECLARE_FXDRAWABLE_STUBS(FXComboBox)
+DECLARE_FXWINDOW_STUBS(FXComboBox)
+
+/* Start stub declarations for class FXRbComposite */
+DECLARE_FXOBJECT_STUBS(FXComposite)
+DECLARE_FXID_STUBS(FXComposite)
+DECLARE_FXDRAWABLE_STUBS(FXComposite)
+DECLARE_FXWINDOW_STUBS(FXComposite)
+
+/* Start stub declarations for class FXRbCursor */
+DECLARE_FXOBJECT_STUBS(FXCursor)
+DECLARE_FXID_STUBS(FXCursor)
+DECLARE_FXCURSOR_STUBS(FXCursor)
+
+/* Start stub declarations for class FXRbDC */
+DECLARE_FXDC_STUBS(FXDC)
+
+/* Start stub declarations for class FXRbDCPrint */
+DECLARE_FXDC_STUBS(FXDCPrint)
+
+/* Start stub declarations for class FXRbDCWindow */
+DECLARE_FXDC_STUBS(FXDCWindow)
+
+/* Start stub declarations for class FXRbDataTarget */
+DECLARE_FXOBJECT_STUBS(FXDataTarget)
+
+/* Start stub declarations for class FXRbDebugTarget */
+DECLARE_FXOBJECT_STUBS(FXDebugTarget)
+
+/* Start stub declarations for class FXRbDelegator */
+DECLARE_FXOBJECT_STUBS(FXDelegator)
+
+/* Start stub declarations for class FXRbDial */
+DECLARE_FXOBJECT_STUBS(FXDial)
+DECLARE_FXID_STUBS(FXDial)
+DECLARE_FXDRAWABLE_STUBS(FXDial)
+DECLARE_FXWINDOW_STUBS(FXDial)
+
+/* Start stub declarations for class FXRbDialogBox */
+DECLARE_FXOBJECT_STUBS(FXDialogBox)
+DECLARE_FXID_STUBS(FXDialogBox)
+DECLARE_FXDRAWABLE_STUBS(FXDialogBox)
+DECLARE_FXWINDOW_STUBS(FXDialogBox)
+DECLARE_FXTOPWINDOW_STUBS(FXDialogBox)
+DECLARE_FXDIALOGBOX_STUBS(FXDialogBox)
+
+/* Start stub declarations for class FXRbDict */
+DECLARE_FXOBJECT_STUBS(FXDict)
+
+/* Start stub declarations for class FXRbDirBox */
+DECLARE_FXOBJECT_STUBS(FXDirBox)
+DECLARE_FXID_STUBS(FXDirBox)
+DECLARE_FXDRAWABLE_STUBS(FXDirBox)
+DECLARE_FXWINDOW_STUBS(FXDirBox)
+DECLARE_FXTREELISTBOX_STUBS(FXDirBox)
+
+/* Start stub declarations for class FXRbDirDialog */
+DECLARE_FXOBJECT_STUBS(FXDirDialog)
+DECLARE_FXID_STUBS(FXDirDialog)
+DECLARE_FXDRAWABLE_STUBS(FXDirDialog)
+DECLARE_FXWINDOW_STUBS(FXDirDialog)
+DECLARE_FXTOPWINDOW_STUBS(FXDirDialog)
+DECLARE_FXDIALOGBOX_STUBS(FXDirDialog)
+
+/* Start stub declarations for class FXRbDirItem */
+DECLARE_FXOBJECT_STUBS(FXDirItem)
+DECLARE_FXTREEITEM_STUBS(FXDirItem,FXRbDirItem)
+
+/* Start stub declarations for class FXRbDirList */
+DECLARE_FXOBJECT_STUBS(FXDirList)
+DECLARE_FXID_STUBS(FXDirList)
+DECLARE_FXDRAWABLE_STUBS(FXDirList)
+DECLARE_FXWINDOW_STUBS(FXDirList)
+DECLARE_FXSCROLLAREA_STUBS(FXDirList)
+DECLARE_FXTREELIST_STUBS(FXDirList)
+
+/* Start stub declarations for class FXRbDirSelector */
+DECLARE_FXOBJECT_STUBS(FXDirSelector)
+DECLARE_FXID_STUBS(FXDirSelector)
+DECLARE_FXDRAWABLE_STUBS(FXDirSelector)
+DECLARE_FXWINDOW_STUBS(FXDirSelector)
+
+/* Start stub declarations for class FXRbDockBar */
+DECLARE_FXOBJECT_STUBS(FXDockBar)
+DECLARE_FXID_STUBS(FXDockBar)
+DECLARE_FXDRAWABLE_STUBS(FXDockBar)
+DECLARE_FXWINDOW_STUBS(FXDockBar)
+DECLARE_FXDOCKBAR_STUBS(FXDockBar)
+
+/* Start stub declarations for class FXRbDockHandler */
+DECLARE_FXOBJECT_STUBS(FXDockHandler)
+DECLARE_FXID_STUBS(FXDockHandler)
+DECLARE_FXDRAWABLE_STUBS(FXDockHandler)
+DECLARE_FXWINDOW_STUBS(FXDockHandler)
+
+/* Start stub declarations for class FXRbDockSite */
+DECLARE_FXOBJECT_STUBS(FXDockSite)
+DECLARE_FXID_STUBS(FXDockSite)
+DECLARE_FXDRAWABLE_STUBS(FXDockSite)
+DECLARE_FXWINDOW_STUBS(FXDockSite)
+DECLARE_FXDOCKSITE_STUBS(FXDockSite)
+
+/* Start stub declarations for class FXRbDockTitle */
+DECLARE_FXOBJECT_STUBS(FXDockTitle)
+DECLARE_FXID_STUBS(FXDockTitle)
+DECLARE_FXDRAWABLE_STUBS(FXDockTitle)
+DECLARE_FXWINDOW_STUBS(FXDockTitle)
+
+/* Start stub declarations for class FXRbDocument */
+DECLARE_FXOBJECT_STUBS(FXDocument)
+
+/* Start stub declarations for class FXRbDragCorner */
+DECLARE_FXOBJECT_STUBS(FXDragCorner)
+DECLARE_FXID_STUBS(FXDragCorner)
+DECLARE_FXDRAWABLE_STUBS(FXDragCorner)
+DECLARE_FXWINDOW_STUBS(FXDragCorner)
+
+/* Start stub declarations for class FXRbDrawable */
+DECLARE_FXOBJECT_STUBS(FXDrawable)
+DECLARE_FXID_STUBS(FXDrawable)
+DECLARE_FXDRAWABLE_STUBS(FXDrawable)
+
+/* Start stub declarations for class FXRbDriveBox */
+DECLARE_FXOBJECT_STUBS(FXDriveBox)
+DECLARE_FXID_STUBS(FXDriveBox)
+DECLARE_FXDRAWABLE_STUBS(FXDriveBox)
+DECLARE_FXWINDOW_STUBS(FXDriveBox)
+DECLARE_FXLISTBOX_STUBS(FXDriveBox)
+
+/* Start stub declarations for class FXRbFileDialog */
+DECLARE_FXOBJECT_STUBS(FXFileDialog)
+DECLARE_FXID_STUBS(FXFileDialog)
+DECLARE_FXDRAWABLE_STUBS(FXFileDialog)
+DECLARE_FXWINDOW_STUBS(FXFileDialog)
+DECLARE_FXTOPWINDOW_STUBS(FXFileDialog)
+DECLARE_FXDIALOGBOX_STUBS(FXFileDialog)
+
+/* Start stub declarations for class FXRbIconDict */
+DECLARE_FXOBJECT_STUBS(FXIconDict)
+
+/* Start stub declarations for class FXRbFileDict */
+DECLARE_FXOBJECT_STUBS(FXFileDict)
+DECLARE_FXFILEDICT_STUBS(FXFileDict)
+
+/* Start stub declarations for class FXRbFileItem */
+DECLARE_FXOBJECT_STUBS(FXFileItem)
+DECLARE_FXICONITEM_STUBS(FXFileItem,FXRbFileItem)
+
+/* Start stub declarations for class FXRbFileList */
+DECLARE_FXOBJECT_STUBS(FXFileList)
+DECLARE_FXID_STUBS(FXFileList)
+DECLARE_FXDRAWABLE_STUBS(FXFileList)
+DECLARE_FXWINDOW_STUBS(FXFileList)
+DECLARE_FXSCROLLAREA_STUBS(FXFileList)
+DECLARE_FXICONLIST_STUBS(FXFileList)
+
+/* Start stub declarations for class FXRbFileSelector */
+DECLARE_FXOBJECT_STUBS(FXFileSelector)
+DECLARE_FXID_STUBS(FXFileSelector)
+DECLARE_FXDRAWABLE_STUBS(FXFileSelector)
+DECLARE_FXWINDOW_STUBS(FXFileSelector)
+
+/* Start stub declarations for class FXRbFoldingItem */
+DECLARE_FXOBJECT_STUBS(FXFoldingItem)
+DECLARE_FXFOLDINGITEM_STUBS(FXFoldingItem)
+
+/* Start stub declarations for class FXRbFoldingList */
+DECLARE_FXOBJECT_STUBS(FXFoldingList)
+DECLARE_FXID_STUBS(FXFoldingList)
+DECLARE_FXDRAWABLE_STUBS(FXFoldingList)
+DECLARE_FXWINDOW_STUBS(FXFoldingList)
+DECLARE_FXSCROLLAREA_STUBS(FXFoldingList)
+DECLARE_FXFOLDINGLIST_STUBS(FXFoldingList)
+
+/* Start stub declarations for class FXRbFont */
+DECLARE_FXOBJECT_STUBS(FXFont)
+DECLARE_FXID_STUBS(FXFont)
+DECLARE_FXFONT_STUBS(FXFont)
+
+/* Start stub declarations for class FXRbFontDialog */
+DECLARE_FXOBJECT_STUBS(FXFontDialog)
+DECLARE_FXID_STUBS(FXFontDialog)
+DECLARE_FXDRAWABLE_STUBS(FXFontDialog)
+DECLARE_FXWINDOW_STUBS(FXFontDialog)
+DECLARE_FXTOPWINDOW_STUBS(FXFontDialog)
+DECLARE_FXDIALOGBOX_STUBS(FXFontDialog)
+
+/* Start stub declarations for class FXRbFontSelector */
+DECLARE_FXOBJECT_STUBS(FXFontSelector)
+DECLARE_FXID_STUBS(FXFontSelector)
+DECLARE_FXDRAWABLE_STUBS(FXFontSelector)
+DECLARE_FXWINDOW_STUBS(FXFontSelector)
+
+/* Start stub declarations for class FXRbFrame */
+DECLARE_FXOBJECT_STUBS(FXFrame)
+DECLARE_FXID_STUBS(FXFrame)
+DECLARE_FXDRAWABLE_STUBS(FXFrame)
+DECLARE_FXWINDOW_STUBS(FXFrame)
+
+/* Start stub declarations for class FXRbGIFCursor */
+DECLARE_FXOBJECT_STUBS(FXGIFCursor)
+DECLARE_FXID_STUBS(FXGIFCursor)
+DECLARE_FXCURSOR_STUBS(FXGIFCursor)
+
+/* Start stub declarations for class FXRbGIFIcon */
+DECLARE_FXOBJECT_STUBS(FXGIFIcon)
+DECLARE_FXID_STUBS(FXGIFIcon)
+DECLARE_FXDRAWABLE_STUBS(FXGIFIcon)
+DECLARE_FXIMAGE_STUBS(FXGIFIcon)
+
+/* Start stub declarations for class FXRbGIFImage */
+DECLARE_FXOBJECT_STUBS(FXGIFImage)
+DECLARE_FXID_STUBS(FXGIFImage)
+DECLARE_FXDRAWABLE_STUBS(FXGIFImage)
+DECLARE_FXIMAGE_STUBS(FXGIFImage)
+
+/* Start stub declarations for class FXRbGLCanvas */
+DECLARE_FXOBJECT_STUBS(FXGLCanvas)
+DECLARE_FXID_STUBS(FXGLCanvas)
+DECLARE_FXDRAWABLE_STUBS(FXGLCanvas)
+DECLARE_FXWINDOW_STUBS(FXGLCanvas)
+DECLARE_FXGLCANVAS_STUBS(FXGLCanvas)
+
+/* Start stub declarations for class FXRbGLContext */
+DECLARE_FXOBJECT_STUBS(FXGLContext)
+DECLARE_FXID_STUBS(FXGLContext)
+
+/* Start stub declarations for class FXRbGLObject */
+DECLARE_FXOBJECT_STUBS(FXGLObject)
+DECLARE_FXGLOBJECT_STUBS(FXGLObject)
+
+/* Start stub declarations for class FXRbGLShape */
+DECLARE_FXOBJECT_STUBS(FXGLShape)
+DECLARE_FXGLOBJECT_STUBS(FXGLShape)
+DECLARE_FXGLSHAPE_STUBS(FXGLShape,FXRbGLShape)
+
+/* Start stub declarations for class FXRbGLViewer */
+DECLARE_FXOBJECT_STUBS(FXGLViewer)
+DECLARE_FXID_STUBS(FXGLViewer)
+DECLARE_FXDRAWABLE_STUBS(FXGLViewer)
+DECLARE_FXWINDOW_STUBS(FXGLViewer)
+DECLARE_FXGLCANVAS_STUBS(FXGLViewer)
+DECLARE_FXGLVIEWER_STUBS(FXGLViewer)
+
+/* Start stub declarations for class FXRbGLVisual */
+DECLARE_FXOBJECT_STUBS(FXGLVisual)
+DECLARE_FXID_STUBS(FXGLVisual)
+
+/* Start stub declarations for class FXRbGradientBar */
+DECLARE_FXOBJECT_STUBS(FXGradientBar)
+DECLARE_FXID_STUBS(FXGradientBar)
+DECLARE_FXDRAWABLE_STUBS(FXGradientBar)
+DECLARE_FXWINDOW_STUBS(FXGradientBar)
+
+/* Start stub declarations for class FXRbGroupBox */
+DECLARE_FXOBJECT_STUBS(FXGroupBox)
+DECLARE_FXID_STUBS(FXGroupBox)
+DECLARE_FXDRAWABLE_STUBS(FXGroupBox)
+DECLARE_FXWINDOW_STUBS(FXGroupBox)
+
+/* Start stub declarations for class FXRbHeaderItem */
+DECLARE_FXOBJECT_STUBS(FXHeaderItem)
+DECLARE_FXHEADERITEM_STUBS(FXHeaderItem)
+
+/* Start stub declarations for class FXRbHeader */
+DECLARE_FXOBJECT_STUBS(FXHeader)
+DECLARE_FXID_STUBS(FXHeader)
+DECLARE_FXDRAWABLE_STUBS(FXHeader)
+DECLARE_FXWINDOW_STUBS(FXHeader)
+
+/* Start stub declarations for class FXRbHorizontalFrame */
+DECLARE_FXOBJECT_STUBS(FXHorizontalFrame)
+DECLARE_FXID_STUBS(FXHorizontalFrame)
+DECLARE_FXDRAWABLE_STUBS(FXHorizontalFrame)
+DECLARE_FXWINDOW_STUBS(FXHorizontalFrame)
+
+/* Start stub declarations for class FXRbICOIcon */
+DECLARE_FXOBJECT_STUBS(FXICOIcon)
+DECLARE_FXID_STUBS(FXICOIcon)
+DECLARE_FXDRAWABLE_STUBS(FXICOIcon)
+DECLARE_FXIMAGE_STUBS(FXICOIcon)
+
+/* Start stub declarations for class FXRbICOImage */
+DECLARE_FXOBJECT_STUBS(FXICOImage)
+DECLARE_FXID_STUBS(FXICOImage)
+DECLARE_FXDRAWABLE_STUBS(FXICOImage)
+DECLARE_FXIMAGE_STUBS(FXICOImage)
+
+/* Start stub declarations for class FXRbIcon */
+DECLARE_FXOBJECT_STUBS(FXIcon)
+DECLARE_FXID_STUBS(FXIcon)
+DECLARE_FXDRAWABLE_STUBS(FXIcon)
+DECLARE_FXIMAGE_STUBS(FXIcon)
+
+/* Start stub declarations for class FXRbIconItem */
+DECLARE_FXOBJECT_STUBS(FXIconItem)
+DECLARE_FXICONITEM_STUBS(FXIconItem,FXRbIconItem)
+
+/* Start stub declarations for class FXRbIconList */
+DECLARE_FXOBJECT_STUBS(FXIconList)
+DECLARE_FXID_STUBS(FXIconList)
+DECLARE_FXDRAWABLE_STUBS(FXIconList)
+DECLARE_FXWINDOW_STUBS(FXIconList)
+DECLARE_FXSCROLLAREA_STUBS(FXIconList)
+DECLARE_FXICONLIST_STUBS(FXIconList)
+
+/* Start stub declarations for class FXRbIconSource */
+DECLARE_FXOBJECT_STUBS(FXIconSource)
+DECLARE_FXICONSOURCE_STUBS(FXIconSource)
+
+/* Start stub declarations for class FXRbId */
+DECLARE_FXOBJECT_STUBS(FXId)
+DECLARE_FXID_STUBS(FXId)
+
+/* Start stub declarations for class FXRbImage */
+DECLARE_FXOBJECT_STUBS(FXImage)
+DECLARE_FXID_STUBS(FXImage)
+DECLARE_FXDRAWABLE_STUBS(FXImage)
+DECLARE_FXIMAGE_STUBS(FXImage)
+
+/* Start stub declarations for class FXRbImageFrame */
+DECLARE_FXOBJECT_STUBS(FXImageFrame)
+DECLARE_FXID_STUBS(FXImageFrame)
+DECLARE_FXDRAWABLE_STUBS(FXImageFrame)
+DECLARE_FXWINDOW_STUBS(FXImageFrame)
+
+/* Start stub declarations for class FXRbImageView */
+DECLARE_FXOBJECT_STUBS(FXImageView)
+DECLARE_FXID_STUBS(FXImageView)
+DECLARE_FXDRAWABLE_STUBS(FXImageView)
+DECLARE_FXWINDOW_STUBS(FXImageView)
+DECLARE_FXSCROLLAREA_STUBS(FXImageView)
+
+/* Start stub declarations for class FXRbInputDialog */
+DECLARE_FXOBJECT_STUBS(FXInputDialog)
+DECLARE_FXID_STUBS(FXInputDialog)
+DECLARE_FXDRAWABLE_STUBS(FXInputDialog)
+DECLARE_FXWINDOW_STUBS(FXInputDialog)
+DECLARE_FXTOPWINDOW_STUBS(FXInputDialog)
+DECLARE_FXDIALOGBOX_STUBS(FXInputDialog)
+
+/* Start stub declarations for class FXRbJPGIcon */
+DECLARE_FXOBJECT_STUBS(FXJPGIcon)
+DECLARE_FXID_STUBS(FXJPGIcon)
+DECLARE_FXDRAWABLE_STUBS(FXJPGIcon)
+DECLARE_FXIMAGE_STUBS(FXJPGIcon)
+
+/* Start stub declarations for class FXRbJPGImage */
+DECLARE_FXOBJECT_STUBS(FXJPGImage)
+DECLARE_FXID_STUBS(FXJPGImage)
+DECLARE_FXDRAWABLE_STUBS(FXJPGImage)
+DECLARE_FXIMAGE_STUBS(FXJPGImage)
+
+/* Start stub declarations for class FXRbKnob */
+DECLARE_FXOBJECT_STUBS(FXKnob)
+DECLARE_FXID_STUBS(FXKnob)
+DECLARE_FXDRAWABLE_STUBS(FXKnob)
+DECLARE_FXWINDOW_STUBS(FXKnob)
+
+/* Start stub declarations for class FXRbLabel */
+DECLARE_FXOBJECT_STUBS(FXLabel)
+DECLARE_FXID_STUBS(FXLabel)
+DECLARE_FXDRAWABLE_STUBS(FXLabel)
+DECLARE_FXWINDOW_STUBS(FXLabel)
+
+/* Start stub declarations for class FXRbListItem */
+DECLARE_FXOBJECT_STUBS(FXListItem)
+DECLARE_FXLISTITEM_STUBS(FXListItem)
+
+/* Start stub declarations for class FXRbList */
+DECLARE_FXOBJECT_STUBS(FXList)
+DECLARE_FXID_STUBS(FXList)
+DECLARE_FXDRAWABLE_STUBS(FXList)
+DECLARE_FXWINDOW_STUBS(FXList)
+DECLARE_FXSCROLLAREA_STUBS(FXList)
+DECLARE_FXLIST_STUBS(FXList)
+
+/* Start stub declarations for class FXRbListBox */
+DECLARE_FXOBJECT_STUBS(FXListBox)
+DECLARE_FXID_STUBS(FXListBox)
+DECLARE_FXDRAWABLE_STUBS(FXListBox)
+DECLARE_FXWINDOW_STUBS(FXListBox)
+DECLARE_FXLISTBOX_STUBS(FXListBox)
+
+/* Start stub declarations for class FXRbMDIDeleteButton */
+DECLARE_FXOBJECT_STUBS(FXMDIDeleteButton)
+DECLARE_FXID_STUBS(FXMDIDeleteButton)
+DECLARE_FXDRAWABLE_STUBS(FXMDIDeleteButton)
+DECLARE_FXWINDOW_STUBS(FXMDIDeleteButton)
+
+/* Start stub declarations for class FXRbMDIRestoreButton */
+DECLARE_FXOBJECT_STUBS(FXMDIRestoreButton)
+DECLARE_FXID_STUBS(FXMDIRestoreButton)
+DECLARE_FXDRAWABLE_STUBS(FXMDIRestoreButton)
+DECLARE_FXWINDOW_STUBS(FXMDIRestoreButton)
+
+/* Start stub declarations for class FXRbMDIMinimizeButton */
+DECLARE_FXOBJECT_STUBS(FXMDIMinimizeButton)
+DECLARE_FXID_STUBS(FXMDIMinimizeButton)
+DECLARE_FXDRAWABLE_STUBS(FXMDIMinimizeButton)
+DECLARE_FXWINDOW_STUBS(FXMDIMinimizeButton)
+
+/* Start stub declarations for class FXRbMDIMaximizeButton */
+DECLARE_FXOBJECT_STUBS(FXMDIMaximizeButton)
+DECLARE_FXID_STUBS(FXMDIMaximizeButton)
+DECLARE_FXDRAWABLE_STUBS(FXMDIMaximizeButton)
+DECLARE_FXWINDOW_STUBS(FXMDIMaximizeButton)
+
+/* Start stub declarations for class FXRbMDIWindowButton */
+DECLARE_FXOBJECT_STUBS(FXMDIWindowButton)
+DECLARE_FXID_STUBS(FXMDIWindowButton)
+DECLARE_FXDRAWABLE_STUBS(FXMDIWindowButton)
+DECLARE_FXWINDOW_STUBS(FXMDIWindowButton)
+
+/* Start stub declarations for class FXRbMDIMenu */
+DECLARE_FXOBJECT_STUBS(FXMDIMenu)
+DECLARE_FXID_STUBS(FXMDIMenu)
+DECLARE_FXDRAWABLE_STUBS(FXMDIMenu)
+DECLARE_FXWINDOW_STUBS(FXMDIMenu)
+DECLARE_FXPOPUP_STUBS(FXMDIMenu)
+
+/* Start stub declarations for class FXRbMDIChild */
+DECLARE_FXOBJECT_STUBS(FXMDIChild)
+DECLARE_FXID_STUBS(FXMDIChild)
+DECLARE_FXDRAWABLE_STUBS(FXMDIChild)
+DECLARE_FXWINDOW_STUBS(FXMDIChild)
+DECLARE_FXMDICHILD_STUBS(FXMDIChild)
+
+/* Start stub declarations for class FXRbMDIClient */
+DECLARE_FXOBJECT_STUBS(FXMDIClient)
+DECLARE_FXID_STUBS(FXMDIClient)
+DECLARE_FXDRAWABLE_STUBS(FXMDIClient)
+DECLARE_FXWINDOW_STUBS(FXMDIClient)
+DECLARE_FXMDICLIENT_STUBS(FXMDIClient)
+
+/* Start stub declarations for class FXRbMainWindow */
+DECLARE_FXOBJECT_STUBS(FXMainWindow)
+DECLARE_FXID_STUBS(FXMainWindow)
+DECLARE_FXDRAWABLE_STUBS(FXMainWindow)
+DECLARE_FXWINDOW_STUBS(FXMainWindow)
+DECLARE_FXTOPWINDOW_STUBS(FXMainWindow)
+
+/* Start stub declarations for class FXRbMatrix */
+DECLARE_FXOBJECT_STUBS(FXMatrix)
+DECLARE_FXID_STUBS(FXMatrix)
+DECLARE_FXDRAWABLE_STUBS(FXMatrix)
+DECLARE_FXWINDOW_STUBS(FXMatrix)
+
+/* Start stub declarations for class FXRbMenuBar */
+DECLARE_FXOBJECT_STUBS(FXMenuBar)
+DECLARE_FXID_STUBS(FXMenuBar)
+DECLARE_FXDRAWABLE_STUBS(FXMenuBar)
+DECLARE_FXWINDOW_STUBS(FXMenuBar)
+DECLARE_FXDOCKBAR_STUBS(FXMenuBar)
+
+/* Start stub declarations for class FXRbMenuButton */
+DECLARE_FXOBJECT_STUBS(FXMenuButton)
+DECLARE_FXID_STUBS(FXMenuButton)
+DECLARE_FXDRAWABLE_STUBS(FXMenuButton)
+DECLARE_FXWINDOW_STUBS(FXMenuButton)
+
+/* Start stub declarations for class FXRbMenuCaption */
+DECLARE_FXOBJECT_STUBS(FXMenuCaption)
+DECLARE_FXID_STUBS(FXMenuCaption)
+DECLARE_FXDRAWABLE_STUBS(FXMenuCaption)
+DECLARE_FXWINDOW_STUBS(FXMenuCaption)
+
+/* Start stub declarations for class FXRbMenuCascade */
+DECLARE_FXOBJECT_STUBS(FXMenuCascade)
+DECLARE_FXID_STUBS(FXMenuCascade)
+DECLARE_FXDRAWABLE_STUBS(FXMenuCascade)
+DECLARE_FXWINDOW_STUBS(FXMenuCascade)
+
+/* Start stub declarations for class FXRbMenuCheck */
+DECLARE_FXOBJECT_STUBS(FXMenuCheck)
+DECLARE_FXID_STUBS(FXMenuCheck)
+DECLARE_FXDRAWABLE_STUBS(FXMenuCheck)
+DECLARE_FXWINDOW_STUBS(FXMenuCheck)
+
+/* Start stub declarations for class FXRbMenuCommand */
+DECLARE_FXOBJECT_STUBS(FXMenuCommand)
+DECLARE_FXID_STUBS(FXMenuCommand)
+DECLARE_FXDRAWABLE_STUBS(FXMenuCommand)
+DECLARE_FXWINDOW_STUBS(FXMenuCommand)
+
+/* Start stub declarations for class FXRbMenuPane */
+DECLARE_FXOBJECT_STUBS(FXMenuPane)
+DECLARE_FXID_STUBS(FXMenuPane)
+DECLARE_FXDRAWABLE_STUBS(FXMenuPane)
+DECLARE_FXWINDOW_STUBS(FXMenuPane)
+DECLARE_FXPOPUP_STUBS(FXMenuPane)
+
+/* Start stub declarations for class FXRbMenuRadio */
+DECLARE_FXOBJECT_STUBS(FXMenuRadio)
+DECLARE_FXID_STUBS(FXMenuRadio)
+DECLARE_FXDRAWABLE_STUBS(FXMenuRadio)
+DECLARE_FXWINDOW_STUBS(FXMenuRadio)
+
+/* Start stub declarations for class FXRbMenuSeparator */
+DECLARE_FXOBJECT_STUBS(FXMenuSeparator)
+DECLARE_FXID_STUBS(FXMenuSeparator)
+DECLARE_FXDRAWABLE_STUBS(FXMenuSeparator)
+DECLARE_FXWINDOW_STUBS(FXMenuSeparator)
+
+/* Start stub declarations for class FXRbMenuTitle */
+DECLARE_FXOBJECT_STUBS(FXMenuTitle)
+DECLARE_FXID_STUBS(FXMenuTitle)
+DECLARE_FXDRAWABLE_STUBS(FXMenuTitle)
+DECLARE_FXWINDOW_STUBS(FXMenuTitle)
+
+/* Start stub declarations for class FXRbMessageBox */
+DECLARE_FXOBJECT_STUBS(FXMessageBox)
+DECLARE_FXID_STUBS(FXMessageBox)
+DECLARE_FXDRAWABLE_STUBS(FXMessageBox)
+DECLARE_FXWINDOW_STUBS(FXMessageBox)
+DECLARE_FXTOPWINDOW_STUBS(FXMessageBox)
+DECLARE_FXDIALOGBOX_STUBS(FXMessageBox)
+
+/* Start stub declarations for class FXRbObject */
+DECLARE_FXOBJECT_STUBS(FXObject)
+
+/* Start stub declarations for class FXRbOption */
+DECLARE_FXOBJECT_STUBS(FXOption)
+DECLARE_FXID_STUBS(FXOption)
+DECLARE_FXDRAWABLE_STUBS(FXOption)
+DECLARE_FXWINDOW_STUBS(FXOption)
+
+/* Start stub declarations for class FXRbOptionMenu */
+DECLARE_FXOBJECT_STUBS(FXOptionMenu)
+DECLARE_FXID_STUBS(FXOptionMenu)
+DECLARE_FXDRAWABLE_STUBS(FXOptionMenu)
+DECLARE_FXWINDOW_STUBS(FXOptionMenu)
+
+/* Start stub declarations for class FXRbPCXIcon */
+DECLARE_FXOBJECT_STUBS(FXPCXIcon)
+DECLARE_FXID_STUBS(FXPCXIcon)
+DECLARE_FXDRAWABLE_STUBS(FXPCXIcon)
+DECLARE_FXIMAGE_STUBS(FXPCXIcon)
+
+/* Start stub declarations for class FXRbPCXImage */
+DECLARE_FXOBJECT_STUBS(FXPCXImage)
+DECLARE_FXID_STUBS(FXPCXImage)
+DECLARE_FXDRAWABLE_STUBS(FXPCXImage)
+DECLARE_FXIMAGE_STUBS(FXPCXImage)
+
+/* Start stub declarations for class FXRbPNGIcon */
+DECLARE_FXOBJECT_STUBS(FXPNGIcon)
+DECLARE_FXID_STUBS(FXPNGIcon)
+DECLARE_FXDRAWABLE_STUBS(FXPNGIcon)
+DECLARE_FXIMAGE_STUBS(FXPNGIcon)
+
+/* Start stub declarations for class FXRbPNGImage */
+DECLARE_FXOBJECT_STUBS(FXPNGImage)
+DECLARE_FXID_STUBS(FXPNGImage)
+DECLARE_FXDRAWABLE_STUBS(FXPNGImage)
+DECLARE_FXIMAGE_STUBS(FXPNGImage)
+
+/* Start stub declarations for class FXRbPPMIcon */
+DECLARE_FXOBJECT_STUBS(FXPPMIcon)
+DECLARE_FXID_STUBS(FXPPMIcon)
+DECLARE_FXDRAWABLE_STUBS(FXPPMIcon)
+DECLARE_FXIMAGE_STUBS(FXPPMIcon)
+
+/* Start stub declarations for class FXRbPPMImage */
+DECLARE_FXOBJECT_STUBS(FXPPMImage)
+DECLARE_FXID_STUBS(FXPPMImage)
+DECLARE_FXDRAWABLE_STUBS(FXPPMImage)
+DECLARE_FXIMAGE_STUBS(FXPPMImage)
+
+/* Start stub declarations for class FXRbPacker */
+DECLARE_FXOBJECT_STUBS(FXPacker)
+DECLARE_FXID_STUBS(FXPacker)
+DECLARE_FXDRAWABLE_STUBS(FXPacker)
+DECLARE_FXWINDOW_STUBS(FXPacker)
+
+/* Start stub declarations for class FXRbPicker */
+DECLARE_FXOBJECT_STUBS(FXPicker)
+DECLARE_FXID_STUBS(FXPicker)
+DECLARE_FXDRAWABLE_STUBS(FXPicker)
+DECLARE_FXWINDOW_STUBS(FXPicker)
+
+/* Start stub declarations for class FXRbPopup */
+DECLARE_FXOBJECT_STUBS(FXPopup)
+DECLARE_FXID_STUBS(FXPopup)
+DECLARE_FXDRAWABLE_STUBS(FXPopup)
+DECLARE_FXWINDOW_STUBS(FXPopup)
+DECLARE_FXPOPUP_STUBS(FXPopup)
+
+/* Start stub declarations for class FXRbPrintDialog */
+DECLARE_FXOBJECT_STUBS(FXPrintDialog)
+DECLARE_FXID_STUBS(FXPrintDialog)
+DECLARE_FXDRAWABLE_STUBS(FXPrintDialog)
+DECLARE_FXWINDOW_STUBS(FXPrintDialog)
+DECLARE_FXTOPWINDOW_STUBS(FXPrintDialog)
+DECLARE_FXDIALOGBOX_STUBS(FXPrintDialog)
+
+/* Start stub declarations for class FXRbProgressBar */
+DECLARE_FXOBJECT_STUBS(FXProgressBar)
+DECLARE_FXID_STUBS(FXProgressBar)
+DECLARE_FXDRAWABLE_STUBS(FXProgressBar)
+DECLARE_FXWINDOW_STUBS(FXProgressBar)
+
+/* Start stub declarations for class FXRbProgressDialog */
+DECLARE_FXOBJECT_STUBS(FXProgressDialog)
+DECLARE_FXID_STUBS(FXProgressDialog)
+DECLARE_FXDRAWABLE_STUBS(FXProgressDialog)
+DECLARE_FXWINDOW_STUBS(FXProgressDialog)
+DECLARE_FXTOPWINDOW_STUBS(FXProgressDialog)
+DECLARE_FXDIALOGBOX_STUBS(FXProgressDialog)
+
+/* Start stub declarations for class FXRbRGBIcon */
+DECLARE_FXOBJECT_STUBS(FXRGBIcon)
+DECLARE_FXID_STUBS(FXRGBIcon)
+DECLARE_FXDRAWABLE_STUBS(FXRGBIcon)
+DECLARE_FXIMAGE_STUBS(FXRGBIcon)
+
+/* Start stub declarations for class FXRbRGBImage */
+DECLARE_FXOBJECT_STUBS(FXRGBImage)
+DECLARE_FXID_STUBS(FXRGBImage)
+DECLARE_FXDRAWABLE_STUBS(FXRGBImage)
+DECLARE_FXIMAGE_STUBS(FXRGBImage)
+
+/* Start stub declarations for class FXRbRadioButton */
+DECLARE_FXOBJECT_STUBS(FXRadioButton)
+DECLARE_FXID_STUBS(FXRadioButton)
+DECLARE_FXDRAWABLE_STUBS(FXRadioButton)
+DECLARE_FXWINDOW_STUBS(FXRadioButton)
+
+/* Start stub declarations for class FXRbRealSlider */
+DECLARE_FXOBJECT_STUBS(FXRealSlider)
+DECLARE_FXID_STUBS(FXRealSlider)
+DECLARE_FXDRAWABLE_STUBS(FXRealSlider)
+DECLARE_FXWINDOW_STUBS(FXRealSlider)
+
+/* Start stub declarations for class FXRbRealSpinner */
+DECLARE_FXOBJECT_STUBS(FXRealSpinner)
+DECLARE_FXID_STUBS(FXRealSpinner)
+DECLARE_FXDRAWABLE_STUBS(FXRealSpinner)
+DECLARE_FXWINDOW_STUBS(FXRealSpinner)
+DECLARE_FXREALSPINNER_STUBS(FXRealSpinner)
+
+/* Start stub declarations for class FXRbRecentFiles */
+DECLARE_FXOBJECT_STUBS(FXRecentFiles)
+
+/* Start stub declarations for class FXRbRegistry */
+DECLARE_FXOBJECT_STUBS(FXRegistry)
+
+/* Start stub declarations for class FXRbReplaceDialog */
+DECLARE_FXOBJECT_STUBS(FXReplaceDialog)
+DECLARE_FXID_STUBS(FXReplaceDialog)
+DECLARE_FXDRAWABLE_STUBS(FXReplaceDialog)
+DECLARE_FXWINDOW_STUBS(FXReplaceDialog)
+DECLARE_FXTOPWINDOW_STUBS(FXReplaceDialog)
+DECLARE_FXDIALOGBOX_STUBS(FXReplaceDialog)
+
+/* Start stub declarations for class FXRbRootWindow */
+DECLARE_FXOBJECT_STUBS(FXRootWindow)
+DECLARE_FXID_STUBS(FXRootWindow)
+DECLARE_FXDRAWABLE_STUBS(FXRootWindow)
+DECLARE_FXWINDOW_STUBS(FXRootWindow)
+
+/* Start stub declarations for class FXRbRuler */
+DECLARE_FXOBJECT_STUBS(FXRuler)
+DECLARE_FXID_STUBS(FXRuler)
+DECLARE_FXDRAWABLE_STUBS(FXRuler)
+DECLARE_FXWINDOW_STUBS(FXRuler)
+
+/* Start stub declarations for class FXRbRulerView */
+DECLARE_FXOBJECT_STUBS(FXRulerView)
+DECLARE_FXID_STUBS(FXRulerView)
+DECLARE_FXDRAWABLE_STUBS(FXRulerView)
+DECLARE_FXWINDOW_STUBS(FXRulerView)
+DECLARE_FXSCROLLAREA_STUBS(FXRulerView)
+
+#ifdef WITH_FXSCINTILLA
+
+/* Start stub declarations for class FXRbScintilla */
+DECLARE_FXOBJECT_STUBS(FXScintilla)
+DECLARE_FXID_STUBS(FXScintilla)
+DECLARE_FXDRAWABLE_STUBS(FXScintilla)
+DECLARE_FXWINDOW_STUBS(FXScintilla)
+DECLARE_FXSCROLLAREA_STUBS(FXScintilla)
+
+#endif
+
+/* Start stub declarations for class FXRbScrollArea */
+DECLARE_FXOBJECT_STUBS(FXScrollArea)
+DECLARE_FXID_STUBS(FXScrollArea)
+DECLARE_FXDRAWABLE_STUBS(FXScrollArea)
+DECLARE_FXWINDOW_STUBS(FXScrollArea)
+DECLARE_FXSCROLLAREA_STUBS(FXScrollArea)
+
+/* Start stub declarations for class FXRbScrollBar */
+DECLARE_FXOBJECT_STUBS(FXScrollBar)
+DECLARE_FXID_STUBS(FXScrollBar)
+DECLARE_FXDRAWABLE_STUBS(FXScrollBar)
+DECLARE_FXWINDOW_STUBS(FXScrollBar)
+
+/* Start stub declarations for class FXRbScrollCorner */
+DECLARE_FXOBJECT_STUBS(FXScrollCorner)
+DECLARE_FXID_STUBS(FXScrollCorner)
+DECLARE_FXDRAWABLE_STUBS(FXScrollCorner)
+DECLARE_FXWINDOW_STUBS(FXScrollCorner)
+
+/* Start stub declarations for class FXRbScrollPane */
+DECLARE_FXOBJECT_STUBS(FXScrollPane)
+DECLARE_FXID_STUBS(FXScrollPane)
+DECLARE_FXDRAWABLE_STUBS(FXScrollPane)
+DECLARE_FXWINDOW_STUBS(FXScrollPane)
+DECLARE_FXPOPUP_STUBS(FXScrollPane)
+
+/* Start stub declarations for class FXRbScrollWindow */
+DECLARE_FXOBJECT_STUBS(FXScrollWindow)
+DECLARE_FXID_STUBS(FXScrollWindow)
+DECLARE_FXDRAWABLE_STUBS(FXScrollWindow)
+DECLARE_FXWINDOW_STUBS(FXScrollWindow)
+DECLARE_FXSCROLLAREA_STUBS(FXScrollWindow)
+
+/* Start stub declarations for class FXRbSearchDialog */
+DECLARE_FXOBJECT_STUBS(FXSearchDialog)
+DECLARE_FXID_STUBS(FXSearchDialog)
+DECLARE_FXDRAWABLE_STUBS(FXSearchDialog)
+DECLARE_FXWINDOW_STUBS(FXSearchDialog)
+DECLARE_FXTOPWINDOW_STUBS(FXSearchDialog)
+DECLARE_FXDIALOGBOX_STUBS(FXSearchDialog)
+
+/* Start stub declarations for class FXRbSeparator */
+DECLARE_FXOBJECT_STUBS(FXSeparator)
+DECLARE_FXID_STUBS(FXSeparator)
+DECLARE_FXDRAWABLE_STUBS(FXSeparator)
+DECLARE_FXWINDOW_STUBS(FXSeparator)
+
+/* Start stub declarations for class FXRbHorizontalSeparator */
+DECLARE_FXOBJECT_STUBS(FXHorizontalSeparator)
+DECLARE_FXID_STUBS(FXHorizontalSeparator)
+DECLARE_FXDRAWABLE_STUBS(FXHorizontalSeparator)
+DECLARE_FXWINDOW_STUBS(FXHorizontalSeparator)
+
+/* Start stub declarations for class FXRbVerticalSeparator */
+DECLARE_FXOBJECT_STUBS(FXVerticalSeparator)
+DECLARE_FXID_STUBS(FXVerticalSeparator)
+DECLARE_FXDRAWABLE_STUBS(FXVerticalSeparator)
+DECLARE_FXWINDOW_STUBS(FXVerticalSeparator)
+
+/* Start stub declarations for class FXRbSettings */
+DECLARE_FXOBJECT_STUBS(FXSettings)
+
+/* Start stub declarations for class FXRbShell */
+DECLARE_FXOBJECT_STUBS(FXShell)
+DECLARE_FXID_STUBS(FXShell)
+DECLARE_FXDRAWABLE_STUBS(FXShell)
+DECLARE_FXWINDOW_STUBS(FXShell)
+
+/* Start stub declarations for class FXRbShutterItem */
+DECLARE_FXOBJECT_STUBS(FXShutterItem)
+DECLARE_FXID_STUBS(FXShutterItem)
+DECLARE_FXDRAWABLE_STUBS(FXShutterItem)
+DECLARE_FXWINDOW_STUBS(FXShutterItem)
+
+/* Start stub declarations for class FXRbShutter */
+DECLARE_FXOBJECT_STUBS(FXShutter)
+DECLARE_FXID_STUBS(FXShutter)
+DECLARE_FXDRAWABLE_STUBS(FXShutter)
+DECLARE_FXWINDOW_STUBS(FXShutter)
+DECLARE_FXSHUTTER_STUBS(FXShutter)
+
+/* Start stub declarations for class FXRbSlider */
+DECLARE_FXOBJECT_STUBS(FXSlider)
+DECLARE_FXID_STUBS(FXSlider)
+DECLARE_FXDRAWABLE_STUBS(FXSlider)
+DECLARE_FXWINDOW_STUBS(FXSlider)
+
+/* Start stub declarations for class FXRbSpinner */
+DECLARE_FXOBJECT_STUBS(FXSpinner)
+DECLARE_FXID_STUBS(FXSpinner)
+DECLARE_FXDRAWABLE_STUBS(FXSpinner)
+DECLARE_FXWINDOW_STUBS(FXSpinner)
+DECLARE_FXSPINNER_STUBS(FXSpinner)
+
+/* Start stub declarations for class FXRbSplashWindow */
+DECLARE_FXOBJECT_STUBS(FXSplashWindow)
+DECLARE_FXID_STUBS(FXSplashWindow)
+DECLARE_FXDRAWABLE_STUBS(FXSplashWindow)
+DECLARE_FXWINDOW_STUBS(FXSplashWindow)
+DECLARE_FXTOPWINDOW_STUBS(FXSplashWindow)
+
+/* Start stub declarations for class FXRbSplitter */
+DECLARE_FXOBJECT_STUBS(FXSplitter)
+DECLARE_FXID_STUBS(FXSplitter)
+DECLARE_FXDRAWABLE_STUBS(FXSplitter)
+DECLARE_FXWINDOW_STUBS(FXSplitter)
+
+/* Start stub declarations for class FXRbSpring */
+DECLARE_FXOBJECT_STUBS(FXSpring)
+DECLARE_FXID_STUBS(FXSpring)
+DECLARE_FXDRAWABLE_STUBS(FXSpring)
+DECLARE_FXWINDOW_STUBS(FXSpring)
+
+/* Start stub declarations for class FXRbStatusBar */
+DECLARE_FXOBJECT_STUBS(FXStatusBar)
+DECLARE_FXID_STUBS(FXStatusBar)
+DECLARE_FXDRAWABLE_STUBS(FXStatusBar)
+DECLARE_FXWINDOW_STUBS(FXStatusBar)
+
+/* Start stub declarations for class FXRbStatusLine */
+DECLARE_FXOBJECT_STUBS(FXStatusLine)
+DECLARE_FXID_STUBS(FXStatusLine)
+DECLARE_FXDRAWABLE_STUBS(FXStatusLine)
+DECLARE_FXWINDOW_STUBS(FXStatusLine)
+
+/* Start stub declarations for class FXRbStream */
+DECLARE_FXSTREAM_STUBS(FXStream)
+
+/* Start stub declarations for class FXRbFileStream */
+DECLARE_FXSTREAM_STUBS(FXFileStream)
+
+/* Start stub declarations for class FXRbMemoryStream */
+DECLARE_FXSTREAM_STUBS(FXMemoryStream)
+
+/* Start stub declarations for class FXRbStringDict */
+DECLARE_FXOBJECT_STUBS(FXStringDict)
+
+/* Start stub declarations for class FXRbSwitcher */
+DECLARE_FXOBJECT_STUBS(FXSwitcher)
+DECLARE_FXID_STUBS(FXSwitcher)
+DECLARE_FXDRAWABLE_STUBS(FXSwitcher)
+DECLARE_FXWINDOW_STUBS(FXSwitcher)
+
+/* Start stub declarations for class FXRbTGAIcon */
+DECLARE_FXOBJECT_STUBS(FXTGAIcon)
+DECLARE_FXID_STUBS(FXTGAIcon)
+DECLARE_FXDRAWABLE_STUBS(FXTGAIcon)
+DECLARE_FXIMAGE_STUBS(FXTGAIcon)
+
+/* Start stub declarations for class FXRbTGAImage */
+DECLARE_FXOBJECT_STUBS(FXTGAImage)
+DECLARE_FXID_STUBS(FXTGAImage)
+DECLARE_FXDRAWABLE_STUBS(FXTGAImage)
+DECLARE_FXIMAGE_STUBS(FXTGAImage)
+
+/* Start stub declarations for class FXRbTIFIcon */
+DECLARE_FXOBJECT_STUBS(FXTIFIcon)
+DECLARE_FXID_STUBS(FXTIFIcon)
+DECLARE_FXDRAWABLE_STUBS(FXTIFIcon)
+DECLARE_FXIMAGE_STUBS(FXTIFIcon)
+
+/* Start stub declarations for class FXRbTIFImage */
+DECLARE_FXOBJECT_STUBS(FXTIFImage)
+DECLARE_FXID_STUBS(FXTIFImage)
+DECLARE_FXDRAWABLE_STUBS(FXTIFImage)
+DECLARE_FXIMAGE_STUBS(FXTIFImage)
+
+/* Start stub declarations for class FXRbTabBar */
+DECLARE_FXOBJECT_STUBS(FXTabBar)
+DECLARE_FXID_STUBS(FXTabBar)
+DECLARE_FXDRAWABLE_STUBS(FXTabBar)
+DECLARE_FXWINDOW_STUBS(FXTabBar)
+DECLARE_FXTABBAR_STUBS(FXTabBar)
+
+/* Start stub declarations for class FXRbTabBook */
+DECLARE_FXOBJECT_STUBS(FXTabBook)
+DECLARE_FXID_STUBS(FXTabBook)
+DECLARE_FXDRAWABLE_STUBS(FXTabBook)
+DECLARE_FXWINDOW_STUBS(FXTabBook)
+DECLARE_FXTABBAR_STUBS(FXTabBook)
+
+/* Start stub declarations for class FXRbTabItem */
+DECLARE_FXOBJECT_STUBS(FXTabItem)
+DECLARE_FXID_STUBS(FXTabItem)
+DECLARE_FXDRAWABLE_STUBS(FXTabItem)
+DECLARE_FXWINDOW_STUBS(FXTabItem)
+
+/* Start stub declarations for class FXRbTableItem */
+DECLARE_FXOBJECT_STUBS(FXTableItem)
+DECLARE_FXTABLEITEM_STUBS(FXTableItem,FXRbTableItem)
+
+/* Start stub declarations for class FXRbTable */
+DECLARE_FXOBJECT_STUBS(FXTable)
+DECLARE_FXID_STUBS(FXTable)
+DECLARE_FXDRAWABLE_STUBS(FXTable)
+DECLARE_FXWINDOW_STUBS(FXTable)
+DECLARE_FXSCROLLAREA_STUBS(FXTable)
+DECLARE_FXTABLE_STUBS(FXTable,FXRbTable)
+
+/* Start stub declarations for class FXRbText */
+DECLARE_FXOBJECT_STUBS(FXText)
+DECLARE_FXID_STUBS(FXText)
+DECLARE_FXDRAWABLE_STUBS(FXText)
+DECLARE_FXWINDOW_STUBS(FXText)
+DECLARE_FXSCROLLAREA_STUBS(FXText)
+DECLARE_FXTEXT_STUBS(FXText)
+
+/* Start stub declarations for class FXRbTextField */
+DECLARE_FXOBJECT_STUBS(FXTextField)
+DECLARE_FXID_STUBS(FXTextField)
+DECLARE_FXDRAWABLE_STUBS(FXTextField)
+DECLARE_FXWINDOW_STUBS(FXTextField)
+
+/* Start stub declarations for class FXRbToggleButton */
+DECLARE_FXOBJECT_STUBS(FXToggleButton)
+DECLARE_FXID_STUBS(FXToggleButton)
+DECLARE_FXDRAWABLE_STUBS(FXToggleButton)
+DECLARE_FXWINDOW_STUBS(FXToggleButton)
+
+/* Start stub declarations for class FXRbToolBar */
+DECLARE_FXOBJECT_STUBS(FXToolBar)
+DECLARE_FXID_STUBS(FXToolBar)
+DECLARE_FXDRAWABLE_STUBS(FXToolBar)
+DECLARE_FXWINDOW_STUBS(FXToolBar)
+DECLARE_FXDOCKBAR_STUBS(FXToolBar)
+
+/* Start stub declarations for class FXRbToolBarGrip */
+DECLARE_FXOBJECT_STUBS(FXToolBarGrip)
+DECLARE_FXID_STUBS(FXToolBarGrip)
+DECLARE_FXDRAWABLE_STUBS(FXToolBarGrip)
+DECLARE_FXWINDOW_STUBS(FXToolBarGrip)
+
+/* Start stub declarations for class FXRbToolBarShell */
+DECLARE_FXOBJECT_STUBS(FXToolBarShell)
+DECLARE_FXID_STUBS(FXToolBarShell)
+DECLARE_FXDRAWABLE_STUBS(FXToolBarShell)
+DECLARE_FXWINDOW_STUBS(FXToolBarShell)
+DECLARE_FXTOPWINDOW_STUBS(FXToolBarShell)
+
+/* Start stub declarations for class FXRbToolBarTab */
+DECLARE_FXOBJECT_STUBS(FXToolBarTab)
+DECLARE_FXID_STUBS(FXToolBarTab)
+DECLARE_FXDRAWABLE_STUBS(FXToolBarTab)
+DECLARE_FXWINDOW_STUBS(FXToolBarTab)
+
+/* Start stub declarations for class FXRbToolTip */
+DECLARE_FXOBJECT_STUBS(FXToolTip)
+DECLARE_FXID_STUBS(FXToolTip)
+DECLARE_FXDRAWABLE_STUBS(FXToolTip)
+DECLARE_FXWINDOW_STUBS(FXToolTip)
+
+/* Start stub declarations for class FXRbTopWindow */
+DECLARE_FXOBJECT_STUBS(FXTopWindow)
+DECLARE_FXID_STUBS(FXTopWindow)
+DECLARE_FXDRAWABLE_STUBS(FXTopWindow)
+DECLARE_FXWINDOW_STUBS(FXTopWindow)
+DECLARE_FXTOPWINDOW_STUBS(FXTopWindow)
+
+/* Start stub declarations for class FXRbTranslator */
+DECLARE_FXOBJECT_STUBS(FXTranslator)
+DECLARE_FXTRANSLATOR_STUBS(FXTranslator)
+
+/* Start stub declarations for class FXRbTreeItem */
+DECLARE_FXOBJECT_STUBS(FXTreeItem)
+DECLARE_FXTREEITEM_STUBS(FXTreeItem,FXRbTreeItem)
+
+/* Start stub declarations for class FXRbTreeList */
+DECLARE_FXOBJECT_STUBS(FXTreeList)
+DECLARE_FXID_STUBS(FXTreeList)
+DECLARE_FXDRAWABLE_STUBS(FXTreeList)
+DECLARE_FXWINDOW_STUBS(FXTreeList)
+DECLARE_FXSCROLLAREA_STUBS(FXTreeList)
+DECLARE_FXTREELIST_STUBS(FXTreeList)
+
+/* Start stub declarations for class FXRbTreeListBox */
+DECLARE_FXOBJECT_STUBS(FXTreeListBox)
+DECLARE_FXID_STUBS(FXTreeListBox)
+DECLARE_FXDRAWABLE_STUBS(FXTreeListBox)
+DECLARE_FXWINDOW_STUBS(FXTreeListBox)
+DECLARE_FXTREELISTBOX_STUBS(FXTreeListBox)
+
+/* Start stub declarations for class FXRbTriStateButton */
+DECLARE_FXOBJECT_STUBS(FXTriStateButton)
+DECLARE_FXID_STUBS(FXTriStateButton)
+DECLARE_FXDRAWABLE_STUBS(FXTriStateButton)
+DECLARE_FXWINDOW_STUBS(FXTriStateButton)
+
+/* Start stub declarations for class FXRbVerticalFrame */
+DECLARE_FXOBJECT_STUBS(FXVerticalFrame)
+DECLARE_FXID_STUBS(FXVerticalFrame)
+DECLARE_FXDRAWABLE_STUBS(FXVerticalFrame)
+DECLARE_FXWINDOW_STUBS(FXVerticalFrame)
+
+/* Start stub declarations for class FXRbVisual */
+DECLARE_FXOBJECT_STUBS(FXVisual)
+DECLARE_FXID_STUBS(FXVisual)
+
+/* Start stub declarations for class FXRbWindow */
+DECLARE_FXOBJECT_STUBS(FXWindow)
+DECLARE_FXID_STUBS(FXWindow)
+DECLARE_FXDRAWABLE_STUBS(FXWindow)
+DECLARE_FXWINDOW_STUBS(FXWindow)
+
+/* Start stub declarations for class FXRbWizard */
+DECLARE_FXOBJECT_STUBS(FXWizard)
+DECLARE_FXID_STUBS(FXWizard)
+DECLARE_FXDRAWABLE_STUBS(FXWizard)
+DECLARE_FXWINDOW_STUBS(FXWizard)
+DECLARE_FXTOPWINDOW_STUBS(FXWizard)
+DECLARE_FXDIALOGBOX_STUBS(FXWizard)
+
+/* Start stub declarations for class FXRbXBMIcon */
+DECLARE_FXOBJECT_STUBS(FXXBMIcon)
+DECLARE_FXID_STUBS(FXXBMIcon)
+DECLARE_FXDRAWABLE_STUBS(FXXBMIcon)
+DECLARE_FXIMAGE_STUBS(FXXBMIcon)
+
+/* Start stub declarations for class FXRbXBMImage */
+DECLARE_FXOBJECT_STUBS(FXXBMImage)
+DECLARE_FXID_STUBS(FXXBMImage)
+DECLARE_FXDRAWABLE_STUBS(FXXBMImage)
+DECLARE_FXIMAGE_STUBS(FXXBMImage)
+
+/* Start stub declarations for class FXRbXPMIcon */
+DECLARE_FXOBJECT_STUBS(FXXPMIcon)
+DECLARE_FXID_STUBS(FXXPMIcon)
+DECLARE_FXDRAWABLE_STUBS(FXXPMIcon)
+DECLARE_FXIMAGE_STUBS(FXXPMIcon)
+
+/* Start stub declarations for class FXRbXPMImage */
+DECLARE_FXOBJECT_STUBS(FXXPMImage)
+DECLARE_FXID_STUBS(FXXPMImage)
+DECLARE_FXDRAWABLE_STUBS(FXXPMImage)
+DECLARE_FXIMAGE_STUBS(FXXPMImage)
+
